@@ -33,3 +33,10 @@ The purpose of this analysis is to get a more comprehensive idea about the emplo
 ![Mentorship_Eligibility](https://user-images.githubusercontent.com/107289345/182974083-e741a7cd-ef9e-40ea-b2ba-ae4d38e29d81.png)
 
 ## Summary
+As the “silver tsunami” begins, the roles that will most likely need to be filled are the senior engineers and senior staff. I made a table that shows the number of employees that will most likely be retiring in the five years after the most recent employees who are eligible for retirement. The number of senior engineers and senior staff, is 39,709 and 37,515 respectively. However, the best way to see if there is a true impact on the roles that will be potentially vacated would be to know the amount of ‘young professionals’ in the company. Also, to find out how many of them are eligible to be promoted to the next level.
+
+![five_years](https://user-images.githubusercontent.com/107289345/183003261-06884539-d67e-4a01-ad8f-b5f4347e325a.png)
+
+To find out if there are enough qualified, retirement-ready employees in the departments at Pewlett Hackard I made a table that has the total count of mentor eligibility per department. I would say that there is not enough for a one-on-one mentorship program. However, if it was a group mentorship program then there could be one mentor and three mentees. Although, for example in the finance department there might be too few mentors avaliable for a mentorship program. If that were the case possible there could be a peer group program to help the younger generation move forward within the company. 
+
+![department_eligiblity](https://user-images.githubusercontent.com/107289345/183003318-ea5c0fab-7f72-42ff-883f-7a2cc469a8dd.png)
